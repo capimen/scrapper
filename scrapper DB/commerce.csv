@@ -1,0 +1,4 @@
+id,name,priceclass,pricetag,nameclass,nametag
+1,Buscalibre,p,precioAhora,div,datos
+2,"Portal Inmobiliario",span,price-tag-fraction,h1,item-title__primary
+3,"Shazam Comics",meta,product:original_price:amount,meta,og:title

@@ -1,0 +1,8 @@
+Correciones Scrapper:
+- modificacion en la base de datos para tener más de un sitio por producto  ----> OK
+- agregar un precio umbral posible por producto (puede no existir) ----> OK
+- agregar categoria al producto (manga, usa, omnibus...) ----> OK
+- corregir categorias x indice + tabla categorias
+- agregar campo id_commerce en historical ----> OK
+- update a campo id_commerce en historial para toda la historia con buscalibre. ----> OK
+- agregar id_commerce en el historical al momento de actualizar el producto ----> OK

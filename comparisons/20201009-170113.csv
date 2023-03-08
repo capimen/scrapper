@@ -1,0 +1,177 @@
+id;name;newPrice;avgPrice;bestPrice;worstPrice;percentPrice;percentDiscountPrice;umbral
+1;Amuleto;0.0;1.0;0.0;0.0;0.0;100;70.0;https://www.buscalibre.cl/libro-amuleto/9788433973559/p/3249041
+2;Los Sinsabores del Verdadero Policia;0.0;1.0;0.0;0.0;0.0;100;70.0;https://www.buscalibre.cl/libro-los-sinsabores-del-verdadero-policia/9788433976857/p/6989895
+3;Una Novelita Lumpen;0.0;1.0;0.0;0.0;0.0;100;70.0;https://www.buscalibre.cl/libro-una-novelita-lumpen/9788433977243/p/29390150
+4;La Llegada de los Tres (la Torre Oscura ii);29310.0;32100.0;29310.0;33750.0;91.308411215;8;70.0;https://www.buscalibre.cl/libro-la-llegada-de-los-tres-la-torre-oscura-ii/9788401021428/p/49181529
+5;Coleccion Completa Sherlock Holmes (8 Volumenes);50420.0;59928.75;50420.0;68450.0;84.1332415577;15;70.0;https://www.buscalibre.cl/libro-coleccion-completa-sherlock-holmes-8-volumenes/9789878354019/p/52195716
+6;En Busca del Tiempo Perdido (7 Tomos);77420.0;82288.125;77420.0;86600.0;94.0840491869;5;70.0;https://www.buscalibre.cl/libro-en-busca-del-tiempo-perdido-7-tomos/9788499088464/p/4024026
+7;Hojas de Hierba;18300.0;20158.125;18300.0;21780.0;90.7822528137;9;70.0;https://www.buscalibre.cl/libro-hojas-de-hierba/9788467055177/p/51447856
+8;La Broma Infinita;36420.0;39843.75;36420.0;41900.0;91.4070588235;8;70.0;https://www.buscalibre.cl/libro-la-broma-infinita/9788439702368/p/2407345
+9;Catedral;7650.0;7650.0;7650.0;7650.0;100.0;0;70.0;https://www.buscalibre.cl/libro-catedral/9788433920577/p/1359440
+10;Un Árbol de Noche;13660.0;14446.25;13360.0;14960.0;94.5574110928;5;70.0;https://www.buscalibre.cl/libro-un-arbol-de-noche/9788433972477/p/1027459
+11;Musica Para Camaleones;16150.0;16352.5;15110.0;16900.0;98.761657239;1;70.0;https://www.buscalibre.cl/libro-musica-para-camaleones/9788433914361/p/1027422
+12;El Capitán Salió a Comer y los Marineros Tomaron el Barco;14780.0;16025.625;14780.0;17310.0;92.2272922273;7;70.0;https://www.buscalibre.cl/libro-el-capitan-salio-a-comer-y-los-marineros-tomaron-el-barco/9788433976789/p/4855210
+13;Escritos de un Viejo Indecente;7650.0;7650.0;7650.0;7650.0;100.0;0;70.0;https://www.buscalibre.cl/libro-escritos-de-un-viejo-indecente/9788433920881/p/2617571
+14;Erecciones, Eyaculaciones, Exhibiciones;14270.0;14484.375;13360.0;14960.0;98.5199568501;1;70.0;https://www.buscalibre.cl/libro-erecciones-eyaculaciones-exhibiciones/9788433914552/p/1270723
+15;Hollywood;9350.0;9350.0;9350.0;9350.0;100.0;0;70.0;https://www.buscalibre.cl/libro-hollywood/9788433914262/p/2003140
+16;Se Busca una Mujer;8500.0;8500.0;8500.0;8500.0;100.0;0;70.0;https://www.buscalibre.cl/libro-se-busca-una-mujer/9788433920225/p/1027448
+17;Shakespeare Nunca lo Hizo;14180.0;15608.75;14180.0;16390.0;90.8464803396;9;70.0;https://www.buscalibre.cl/libro-shakespeare-nunca-lo-hizo/9788433976871/p/6989897
+18;Fragmentos de un Cuaderno Manchado de Vino;17250.0;18957.5;17250.0;19920.0;90.9930106818;9;70.0;https://www.buscalibre.cl/libro-fragmentos-de-un-cuaderno-manchado-de-vino/9788433977052/p/27340125
+19;Musica de Cañerias;8500.0;8500.0;8500.0;8500.0;100.0;0;70.0;https://www.buscalibre.cl/libro-musica-de-canerias/9788433914729/p/1027421
+20;Mujeres;14670.0;16241.875;14670.0;17600.0;90.322084119;9;70.0;https://www.buscalibre.cl/libro-mujeres/9788433920997/p/1027420
+21;Factotum;7650.0;7650.0;7650.0;7650.0;100.0;0;70.0;https://www.buscalibre.cl/libro-factotum/9788433920058/p/1271188
+22;Pulp;14780.0;15877.5;14780.0;16750.0;93.087702724;6;70.0;https://www.buscalibre.cl/libro-pulp/9788433914873/p/2617475
+23;La Máquina de Follar;7650.0;7650.0;7650.0;7650.0;100.0;0;70.0;https://www.buscalibre.cl/libro-la-maquina-de-follar/9788433920447/p/2617574
+24;Hijo de Satanás;15180.0;16699.375;15180.0;17540.0;90.901605599;9;70.0;https://www.buscalibre.cl/libro-hijo-de-satanas/9788433914675/p/1027372
+25;Cartero;7650.0;7650.0;7650.0;7650.0;100.0;0;70.0;https://www.buscalibre.cl/libro-cartero/9788433920638/p/1027303
+26;Fiebre en las Gradas;26140.0;25983.125;24040.0;26810.0;100.603757246;0;70.0;https://www.buscalibre.cl/libro-fiebre-en-las-gradas/9788433974778/p/2517976
+27;Como Ser Buenos;26110.0;25070.0;22340.0;30070.0;104.148384523;-4;70.0;https://www.buscalibre.cl/libro-como-ser-buenos/9788433969583/p/1271816
+28;Juliet, desnuda;0.0;1.0;0.0;0.0;0.0;100;70.0;https://www.buscalibre.cl/libro-juliet-desnuda/9788433975430/p/3996455
+29;Funny Girl;14730.0;14730.0;14730.0;14730.0;100.0;0;70.0;https://www.buscalibre.cl/libro-funny-girl/9788433979568/p/47391402
+30;31 Canciones;11690.0;13043.75;11690.0;13710.0;89.6214662195;10;70.0;https://www.buscalibre.cl/libro-31-canciones/9788433973528/p/2517994
+31;Juliet, Desnuda;17250.0;18957.5;17250.0;19920.0;90.9930106818;9;70.0;https://www.buscalibre.cl/libro-juliet-desnuda/9788433977120/p/27397657
+32;En Picado;8500.0;8500.0;8500.0;8500.0;100.0;0;70.0;https://www.buscalibre.cl/libro-en-picado/9788433973634/p/3036008
+33;El año del Verano que Nunca Llego;12270.0;13258.125;12270.0;13820.0;92.5470230519;7;70.0;https://www.buscalibre.cl/libro-el-ano-del-verano-que-nunca-llego/9786073130493/p/46548386
+34;Crónica de una Muerte Anunciada (Literatura Random House);13540.0;14691.875;13400.0;16010.0;92.1597821925;7;70.0;https://www.buscalibre.cl/libro-cronica-de-una-muerte-anunciada-literatura-random-house/9788439728382/p/41454304
+35;Vivir Para Contarla;0.0;1.0;0.0;0.0;0.0;100;70.0;https://www.buscalibre.cl/libro-vivir-para-contarla/9788439728405/p/41447051
+36;Relato de un Náufrago;18110.0;19401.875;17880.0;21330.0;93.3414940566;6;70.0;https://www.buscalibre.cl/libro-relato-de-un-naufrago/9788439728399/p/41460322
+37;El Mundo Conocido;26350.0;29955.625;26350.0;30710.0;87.9634459304;12;70.0;https://www.buscalibre.cl/libro-el-mundo-conocido/9788493401597/p/1811127
+38;En la Corte del Lobo;0.0;1.0;0.0;0.0;0.0;100;70.0;https://www.buscalibre.cl/libro-en-la-corte-del-lobo/9788423344147/p/6116306
+39;Gilead - st Martin`S Press (libro en Inglés);21770.0;20314.1667;0.0;22760.0;107.166591283;-7;70.0;https://www.buscalibre.cl/libro-gilead-st-martin-s-press-libro-en-ingles/9780312424404/p/1754380
+40;Las Correcciones;13560.0;15948.125;13560.0;17920.0;85.0256691617;14;70.0;https://www.buscalibre.cl/libro-las-correcciones/9788498385786/p/38437297
+41;Asombrosas Aventuras de Kavalier y Clay;0.0;1.0;0.0;0.0;0.0;100;70.0;https://www.buscalibre.cl/libro-asombrosas-aventuras-de-kavalier-y-clay/9788497598859/p/3499080
+42;El Tiempo es un Canalla;15000.0;15125.0;15000.0;17000.0;99.173553719;0;70.0;https://www.buscalibre.cl/libro-el-tiempo-es-un-canalla/9788495587831/p/4629109
+43;Medio sol Amarillo;29260.0;32042.5;29260.0;33680.0;91.3162206445;8;70.0;https://www.buscalibre.cl/libro-medio-sol-amarillo/9788439720690/p/3712706
+44;Dientes Blancos;19150.0;20188.75;19150.0;22510.0;94.8548077518;5;70.0;https://www.buscalibre.cl/libro-dientes-blancos/9788478886869/p/996952
+45;Middlesex;12750.0;12750.0;12750.0;12750.0;100.0;0;70.0;https://www.buscalibre.cl/libro-middlesex/9788433976994/p/14871294
+46;La Gran Guerra;22040.0;22040.0;22040.0;22040.0;100.0;0;70.0;https://www.buscalibre.cl/libro-la-gran-guerra/9788439727514/p/39259251
+47;Princesas al Poder;0.0;1.0;0.0;0.0;0.0;100;70.0;https://www.buscalibre.cl/libro-princesas-al-poder/9789562571807/p/51162688
+48;Donde Viven los Monstruos;20290.0;22261.875;20290.0;23390.0;91.1423678374;8;70.0;https://www.buscalibre.cl/libro-donde-viven-los-monstruos/9788484648581/p/40773629
+49;Mickey a Travï¿ ½S de los Siglos;36460.0;40189.375;36460.0;46030.0;90.7204951557;9;70.0;https://www.buscalibre.cl/libro-mickey-a-travi-s-de-los-siglos/9788491736875/p/52089135
+50;Sin City. Edición Integral Vol. 2;39630.0;43339.375;39630.0;45580.0;91.4410971547;8;70.0;https://www.buscalibre.cl/libro-sin-city-edicion-integral-vol-2/9788467904680/p/4580217
+51;Spiderman: Toda una Vida;0.0;38516.0;0.0;44490.0;0.0;100;70.0;https://www.buscalibre.cl/libro-spiderman-toda-una-vida/9788413342597/p/52324084
+52;Bone,Vol. 1: Lejos de Boneville;23330.0;25576.875;23330.0;26880.0;91.2152090511;8;70.0;https://www.buscalibre.cl/libro-bonevol-1-lejos-de-boneville/9788493508890/p/1973087
+53;Fenix nº 01/12 (Nueva Edición);22370.0;23150.0;22370.0;23850.0;96.6306695464;3;70.0;https://www.buscalibre.cl/libro-fenix-n-01-12-nueva-edicion/9788491737001/p/50663112
+54;Adolf;54160.0;51338.125;45050.0;62250.0;105.496646011;-5;70.0;https://www.buscalibre.cl/libro-adolf/9788415921455/p/34584545
+55;Notas al pie de Gaza;29260.0;32042.5;29260.0;33680.0;91.3162206445;8;70.0;https://www.buscalibre.cl/libro-notas-al-pie-de-gaza/9788439722526/p/3384329
+56;Gorazde (nueva ediciï¿½n);22530.0;23190.0;22530.0;23850.0;97.1539456662;2;70.0;https://www.buscalibre.cl/libro-gorazde-nueva-edicii-n/9788415480969/p/46669708
+57;Historias de Bosnia;16150.0;16625.0;16150.0;17100.0;97.1428571429;2;70.0;https://www.buscalibre.cl/libro-historias-de-bosnia/9788416543601/p/47310060
+58;Usagi Yojimbo 3;31450.0;32375.0;31450.0;33300.0;97.1428571429;2;70.0;https://www.buscalibre.cl/libro-usagi-yojimbo-3/9788491730170/p/50663383
+59;37;31450.0;32375.0;31450.0;33300.0;97.1428571429;2;70.0;https://www.buscalibre.cl/libro-37/9788416816446/p/49089121
+60;Usagi Yojimbo 2;31450.0;32375.0;31450.0;33300.0;97.1428571429;2;70.0;https://www.buscalibre.cl/libro-usagi-yojimbo-2/9788491467182/p/49180118
+61;100 Balas Libro 01 (de 5);0.0;1.0;0.0;0.0;0.0;100;70.0;https://www.buscalibre.cl/libro-100-balas-libro-01-de-5/9788418094491/p/52679864
+62;Kobane Calling;25510.0;26961.25;25510.0;29980.0;94.6172747925;5;70.0;https://www.buscalibre.cl/libro-kobane-calling/9788416709571/p/48078364
+63;Ciencia Oscura Edición de Lujo 1. Manual de Entropía Para Principiantes;48040.0;52501.25;48040.0;55220.0;91.5025832718;8;70.0;https://www.buscalibre.cl/libro-ciencia-oscura-edicion-de-lujo-1-manual-de-entropia-para-principiantes/9788467935097/p/51801216
+64;Locke & key Omnibus 02;47290.0;51691.875;47290.0;54370.0;91.4843967258;8;70.0;https://www.buscalibre.cl/libro-locke-key-omnibus-02/9788490946466/p/47497454
+65;Criminal Integral 01;46190.0;49096.875;44530.0;51210.0;94.0793074916;5;70.0;https://www.buscalibre.cl/libro-criminal-integral-01/9788490244401/p/31449620
+66;Aidp, Integral 1;36410.0;39836.875;36410.0;41890.0;91.3977313733;8;70.0;https://www.buscalibre.cl/libro-aidp-integral-1/9788467909937/p/17927181
+67;Alicia;28840.0;31909.375;28840.0;34020.0;90.380961708;9;70.0;https://www.buscalibre.cl/libro-alicia/9788426398550/p/46882530
+68;Barrera;30560.0;33468.125;30560.0;35190.0;91.3107621057;8;70.0;https://www.buscalibre.cl/libro-barrera/9788417507466/p/52215138
+69;Tintín Box. La Colección Completa;230780.0;247452.5;230780.0;261560.0;93.262343278;6;70.0;https://www.buscalibre.cl/libro-tintin-box-la-coleccion-completa/9788426144508/p/49027026
+70;Donald Happiest Adventures;36460.0;40038.75;36460.0;43620.0;91.0617838968;8;70.0;https://www.buscalibre.cl/libro-donald-happiest-adventures/9788491736868/p/50663120
+71;Star Wars Omnibus Jason Aaron  nº 01;63790.0;69961.875;63790.0;76490.0;91.1782310008;8;70.0;https://www.buscalibre.cl/libro-star-wars-omnibus-jason-aaron-n-01/9788491740230/p/52087733
+72;Star Wars Darth Vader Omnibus;83410.0;90326.25;83410.0;95800.0;92.3430342785;7;70.0;https://www.buscalibre.cl/libro-star-wars-darth-vader-omnibus/9788491740223/p/52153919
+73;The Boys Integral Vol. 1;0.0;50720.0;0.0;50720.0;0.0;100;70.0;https://www.buscalibre.cl/libro-the-boys-integral-vol-1/9788467911381/p/28270663
+74;Asalto al Hades, el;16810.0;18760.625;16810.0;19730.0;89.6025585502;10;70.0;https://www.buscalibre.cl/libro-asalto-al-hades-el/9789873861062/p/51926092
+75;Juan Solo (Integral);14020.0;14020.0;14020.0;14020.0;100.0;0;70.0;https://www.buscalibre.cl/libro-juan-solo-integral/9788417125486/p/50279437
+76;Los Pitufos. Integral 01;36170.0;39576.25;36170.0;41620.0;91.3931966773;8;70.0;https://www.buscalibre.cl/libro-los-pitufos-integral-01/9788467924756/p/47864717
+77;Los Malditos Nº 01;23330.0;25670.0;23330.0;27840.0;90.8843007402;9;70.0;https://www.buscalibre.cl/libro-los-malditos-n-01/9788491467847/p/50035833
+78;Estrella Distante;20700.0;23116.875;20700.0;24530.0;89.5449752616;10;70.0;https://www.buscalibre.cl/libro-estrella-distante/9788417247096/p/50199162
+79;From Hell;26780.0;27491.25;26190.0;28350.0;97.4128131678;2;70.0;https://www.buscalibre.cl/libro-from-hell/9788415480846/p/27870866
+80;Los Muertos Vivientes Integral nº1;44480.0;48821.25;44480.0;53280.0;91.1078679878;8;70.0;https://www.buscalibre.cl/libro-los-muertos-vivientes-integral-n-1/9788468402772/p/4148775
+81;1959 Metahulla #2;10630.0;9690.0;8750.0;10630.0;109.700722394;-9;70.0;https://www.buscalibre.cl/libro-1959-metahulla-2/9789569994159/p/50661232
+82;Los Fantastibulosos Mundos de Roald Dahl;18700.0;18700.0;18700.0;18700.0;100.0;0;70.0;https://www.buscalibre.cl/libro-los-fantastibulosos-mundos-de-roald-dahl/9788416773206/p/47857639
+83;The League of Extraordinary Gentlemen nº 02;17000.0;17500.0;17000.0;18000.0;97.1428571429;2;70.0;https://www.buscalibre.cl/libro-the-league-of-extraordinary-gentlemen-n-02/9788416636006/p/47794339
+84;The League of Extraordinary Gentlemen nº 03;17000.0;17500.0;17000.0;18000.0;97.1428571429;2;70.0;https://www.buscalibre.cl/libro-the-league-of-extraordinary-gentlemen-n-03/9788416636037/p/48006727
+85;The League of Extraordinary Gentlemen nº 01;17000.0;17000.0;17000.0;17000.0;100.0;0;70.0;https://www.buscalibre.cl/libro-the-league-of-extraordinary-gentlemen-n-01/9788416543625/p/47340460
+86;La Llamada de Cthulhu;26400.0;18697.5;16920.0;26400.0;141.195346972;-41;70.0;https://www.buscalibre.cl/libro-la-llamada-de-cthulhu/9788445006467/p/51447421
+87;De Animales a Dioses. Breve Historia de la Humanidad;12750.0;12750.0;12750.0;12750.0;100.0;0;70.0;https://www.buscalibre.cl/libro-de-animales-a-dioses-breve-historia-de-la-humanidad/9789569583933/p/47861303
+88;American Gods;15580.0;17133.75;15580.0;17990.0;90.9316407675;9;70.0;https://www.buscalibre.cl/libro-american-gods/9788415729204/p/34489513
+89;Buenos Presagios;0.0;1.0;0.0;0.0;0.0;100;70.0;https://www.buscalibre.cl/libro-buenos-presagios/9789569957017/p/51505029
+90;Logia;0.0;1.0;0.0;0.0;0.0;100;70.0;https://www.buscalibre.cl/libro-logia/9786070732034/p/47258017
+91;El Verbo Kaifman;0.0;13600.0;0.0;13600.0;0.0;100;70.0;https://www.buscalibre.cl/libro-el-verbo-kaifman/9789562478823/p/46343474
+92;Cochrane vs. Cthulhu;8000.0;8800.0;8000.0;14400.0;90.9090909091;9;70.0;https://www.buscalibre.cl/libro-cochrane-vs-cthulhu/9789569585340/p/48188553
+93;Andinia. La Catedral Antartica;15300.0;10800.0;6300.0;15300.0;141.666666667;-41;70.0;https://www.buscalibre.cl/libro-andinia-la-catedral-antartica/9789563601480/p/47477160
+94;Cuentos Completos i  (Philip k. Dick ) (Bibliotecas de Autor);23330.0;25583.75;23330.0;26890.0;91.1906972199;8;70.0;https://www.buscalibre.cl/libro-cuentos-completos-i-philip-k-dick-bibliotecas-de-autor/9788445007211/p/52290979
+95;Ubik;19310.0;21267.5;19310.0;23000.0;90.795815211;9;70.0;https://www.buscalibre.cl/libro-ubik/9788445007372/p/52154637
+96;Los Tres Estigmas de Palmer Eldritch;19310.0;21201.875;19310.0;22280.0;91.0768505144;8;70.0;https://www.buscalibre.cl/libro-los-tres-estigmas-de-palmer-eldritch/9788445007150/p/52062116
+97;La Penúltima Verdad;19310.0;21020.625;19310.0;22130.0;91.8621591889;8;70.0;https://www.buscalibre.cl/libro-la-penultima-verdad/9788445007334/p/52290976
+98;Cuentos Completos ii  (Philip k. Dick );23330.0;17030.0;14370.0;23330.0;136.99354081;-36;70.0;https://www.buscalibre.cl/libro-cuentos-completos-2/9788445007228/p/52430547
+99;Fluyan mis Lï¿ ½Grimas, Dijo el Policï¿ ½A;19310.0;21201.875;19310.0;22280.0;91.0768505144;8;70.0;https://www.buscalibre.cl/libro-fluyan-mis-li-grimas-dijo-el-polici-a/9788445006986/p/52009732
+100;Crónicas Marcianas;19770.0;21174.375;19770.0;22130.0;93.3675728327;6;70.0;https://www.buscalibre.cl/libro-cronicas-marcianas/9786070761546/p/52017183
+101;Dune;0.0;17905.0;0.0;19900.0;0.0;100;70.0;https://www.buscalibre.cl/libro-dune/9788497596824/p/1817778
+102;El sol Desnudo;15530.0;17076.875;15530.0;17930.0;90.941697471;9;70.0;https://www.buscalibre.cl/libro-el-sol-desnudo/9788497937856/p/1801215
+103;Los Robots del Amanecer;15580.0;17133.75;15580.0;17990.0;90.9316407675;9;70.0;https://www.buscalibre.cl/libro-los-robots-del-amanecer/9788497599559/p/1068199
+104;Monster Kanzenban nº 01;14030.0;14030.0;14030.0;14030.0;100.0;0;70.0;https://www.buscalibre.cl/libro-monster-kanzenban-n-01/9788467476613/p/2863437
+105;Monster Kanzenban nº 02;14030.0;14030.0;14030.0;14030.0;100.0;0;70.0;https://www.buscalibre.cl/libro-monster-kanzenban-n-02/9788467476620/p/2863674
+106;Dragon Head nº 01/05;23330.0;25670.0;23330.0;27840.0;90.8843007402;9;70.0;https://www.buscalibre.cl/libro-dragon-head-n-01-05/9788491734857/p/52088145
+107;Hanzô: El camino del asesino: Hanzô 1 - 2ª ed.;25620.0;28078.75;25620.0;29510.0;91.2433779994;8;70.0;https://www.buscalibre.cl/libro-hanzo-el-camino-del-asesino-hanzo-1-2-ed/9788416840656/p/48799299
+108;Dragon Head nº 02/05;28210.0;30215.0;26460.0;32480.0;93.364223068;6;70.0;https://www.buscalibre.cl/libro-dragon-head-n-02-05/9788413410166/p/52388584
+109;La Chica a la Orilla del mar 01;0.0;1.0;0.0;0.0;0.0;100;70.0;https://www.buscalibre.cl/libro-la-chica-a-la-orilla-del-mar-01/9788494087486/p/38211671
+110;La Chica a la Orilla del mar 2;14270.0;15705.625;14270.0;16490.0;90.8591666998;9;70.0;https://www.buscalibre.cl/libro-la-chica-a-la-orilla-del-mar-2/9788494087493/p/40340360
+111;Pluto nº 01/08 (Nueva Edicion);15280.0;16853.125;15280.0;18170.0;90.6656777304;9;70.0;https://www.buscalibre.cl/libro-pluto-n-01-08-nueva-edicion/9788491460299/p/48005476
+112;3 x 3 Eyes 01;20360.0;22345.625;20360.0;23480.0;91.1140323889;8;70.0;https://www.buscalibre.cl/libro-3-x-3-eyes-01/9788417777906/p/51650696
+113;Lobo Solitario y su Cachorro 1;11480.0;11480.0;11480.0;11480.0;100.0;0;70.0;https://www.buscalibre.cl/libro-lobo-solitario-y-su-cachorro-1/9788416693177/p/47310165
+114;El Puño de la Estrella del Norte (Hokuto no Ken) nº 05/18;10970.0;11290.0;10970.0;11610.0;97.1656333038;2;70.0;https://www.buscalibre.cl/libro-el-puno-de-la-estrella-del-norte-hokuto-no-ken-n-05-18/9788413410661/p/52672440
+115;El Puño de la Estrella del Norte (Hokuto no Ken) nº 04/18;10970.0;11290.0;10970.0;11610.0;97.1656333038;2;70.0;https://www.buscalibre.cl/libro-el-puno-de-la-estrella-del-norte-hokuto-no-ken-n-04-18/9788413410654/p/52388617
+116;El Puño de la Estrella del Norte (Hokuto no Ken) nº 04/18;10970.0;11290.0;10970.0;11610.0;97.1656333038;2;70.0;https://www.buscalibre.cl/libro-el-puno-de-la-estrella-del-norte-hokuto-no-ken-n-04-18/9788413410654/p/52388617
+117;El Puño de la Estrella del Norte 2;10970.0;10970.0;10970.0;10970.0;100.0;0;70.0;https://www.buscalibre.cl/libro-el-puno-de-la-estrella-del-norte-2/9788491738992/p/51919025
+118;El Puño de la Estrella del Norte (Hokuto no Ken) nº 01;10970.0;10970.0;10970.0;10970.0;100.0;0;70.0;https://www.buscalibre.cl/libro-el-puno-de-la-estrella-del-norte-hokuto-no-ken-n-01/9788491738985/p/51447622
+119;La Espada del Inmortal nº 05/15;16150.0;16625.0;16150.0;17100.0;97.1428571429;2;70.0;https://www.buscalibre.cl/libro-la-espada-del-inmortal-n-05-15/9788491468462/p/50630469
+120;La Espada del Inmortal Kanzenban nº 04/15;16150.0;16625.0;16150.0;17100.0;97.1428571429;2;70.0;https://www.buscalibre.cl/libro-la-espada-del-inmortal-kanzenban-n-04-15/9788491468455/p/50036028
+121;La Espada del Inmortal nº 03/15;16150.0;16625.0;16150.0;17100.0;97.1428571429;2;70.0;https://www.buscalibre.cl/libro-la-espada-del-inmortal-n-03-15/9788491467724/p/50035801
+122;La Espada del Inmortal Kanzenban nº 02/15;16150.0;16625.0;16150.0;17100.0;97.1428571429;2;70.0;https://www.buscalibre.cl/libro-la-espada-del-inmortal-kanzenban-n-02-15/9788491467137/p/49584292
+123;La Espada del Inmortal nº 01/15;16150.0;16625.0;16150.0;17100.0;97.1428571429;2;70.0;https://www.buscalibre.cl/libro-la-espada-del-inmortal-n-01-15/9788491465799/p/49103963
+124;Obra Completa: Estuche Con: Sapiens | Homo Deus | 21 Lecciones Para el Siglo Xxi: 18041 (Historia);52150.0;56980.0;52150.0;59930.0;91.5233415233;8;70.0;https://www.buscalibre.cl/libro-obra-completa-estuche-con-sapiens-homo-deus-21-lecciones-para-el-siglo-xxi-18041-historia/9788417636845/p/52135284
+125;Código Limpio;52580.0;57451.875;52580.0;60430.0;91.5200765858;8;70.0;https://www.buscalibre.cl/libro-codigo-limpio/9788441532106/p/9257665
+126;El Castillo de las Estrellas 01. 1869 la Conquista del Espacio;24400.0;26744.375;24400.0;28110.0;91.2341380197;8;70.0;https://www.buscalibre.cl/libro-el-castillo-de-las-estrellas-01-1869-la-conquista-del-espacio/9788467918779/p/46476857
+127;Sangri-la;33240.0;37611.25;33240.0;39630.0;88.3778124896;11;70.0;https://www.buscalibre.cl/libro-sangri-la/9788416507818/p/48959550
+128;Blacksad 02: Arctic Nation;21310.0;23260.625;21310.0;24560.0;91.614047344;8;70.0;https://www.buscalibre.cl/libro-blacksad-02-arctic-nation/9788484317326/p/1957605
+129;Thorgal. Integral 1;38960.0;43395.0;38960.0;45690.0;89.7799285632;10;70.0;https://www.buscalibre.cl/libro-thorgal-integral-1/9788467938180/p/51971990
+130;Erase una vez en Francia 01;28420.0;31126.25;28420.0;32720.0;91.3055700574;8;70.0;https://www.buscalibre.cl/libro-erase-una-vez-en-francia-01/9788467910988/p/28270644
+131;Los Surcos del Azar. Edición Ampliada [Próxima Aparición];31430.0;34411.25;31430.0;36180.0;91.3364088779;8;70.0;https://www.buscalibre.cl/libro-los-surcos-del-azar-edicion-ampliada-proxima-aparicion/9788417575199/p/51648864
+132;Lydie Edicion Especial;23890.0;26188.75;23890.0;27520.0;91.2223760202;8;70.0;https://www.buscalibre.cl/libro-lydie-edicion-especial/9788467920871/p/47043828
+133;Jamás Tendré 20 Años.;26830.0;29396.875;26830.0;30900.0;91.2682045285;8;70.0;https://www.buscalibre.cl/libro-jamas-tendre-20-anos/9788467924701/p/47867525
+134;March. Una Cronica de la Lucha por los Derechos Civiles de los Afroamericanos;32440.0;35786.25;32440.0;38920.0;90.6493415767;9;70.0;https://www.buscalibre.cl/libro-march-una-cronica-de-la-lucha-por-los-derechos-civiles-de-los-afroamericanos/9788467930498/p/50084344
+135;Esta Parte me Encanta;10050.0;10385.0;10050.0;11390.0;96.7741935484;3;70.0;https://www.buscalibre.cl/libro-esta-parte-me-encanta/9789585942943/p/51615244
+136;En un Rayo de sol 2ª Parte;34350.0;37588.75;34350.0;39520.0;91.3837251837;8;70.0;https://www.buscalibre.cl/libro-en-un-rayo-de-sol-2-parte/9788417442385/p/51538659
+137;En un Rayo de sol #1 Parte;34350.0;37588.75;34350.0;39520.0;91.3837251837;8;70.0;https://www.buscalibre.cl/libro-en-un-rayo-de-sol-1-parte/9788417442330/p/51431000
+138;Piruetas;38470.0;42084.375;38470.0;44250.0;91.4115987228;8;70.0;https://www.buscalibre.cl/libro-piruetas/9788416400812/p/49088450
+139;Me Estas Escuchando?;35960.0;39348.75;35960.0;41380.0;91.3879093999;8;70.0;https://www.buscalibre.cl/libro-me-estas-escuchando/9788417442620/p/52792017
+140;Frankenstein (Nueva Edición) (Novela Gráfica);21250.0;21250.0;21250.0;21250.0;100.0;0;70.0;https://www.buscalibre.cl/libro-frankenstein-nueva-edicion-novela-grafica/9788413412344/p/52802878
+141;Sleeper: Integral;69790.0;76207.5;69790.0;80170.0;91.5789128367;8;70.0;https://www.buscalibre.cl/libro-sleeper-integral/9788418120077/p/52680412
+142;La Inocencia del Nihilismo;26290.0;28811.25;26290.0;30280.0;91.2490780511;8;70.0;https://www.buscalibre.cl/libro-la-inocencia-del-nihilismo/9788417442057/p/50413304
+143;Queen and Country 1;17000.0;17500.0;17000.0;18000.0;97.1428571429;2;70.0;https://www.buscalibre.cl/libro-queen-and-country-1/9788416090815/p/46509140
+144;Estela Plateada de dan Slott y Mike Allred;49360.0;53940.0;49360.0;56740.0;91.5090841676;8;70.0;https://www.buscalibre.cl/libro-estela-plateada-de-dan-slott-y-mike-allred/9788413343624/p/52782809
+145;Asombroso Spiderman. Si Este es mi Destino (Marvel Gold);47240.0;51635.0;47240.0;54310.0;91.4883315581;8;70.0;https://www.buscalibre.cl/libro-asombroso-spiderman-si-este-es-mi-destino-marvel-gold/9788490247631/p/46364035
+146;El Poderoso Thor 1. La Saga Comienza;44490.0;48635.0;44490.0;51160.0;91.4773311401;8;70.0;https://www.buscalibre.cl/libro-el-poderoso-thor-1-la-saga-comienza/9788413342528/p/52304043
+147;Los Cuatro Fantásticos: Origen;46130.0;50427.5;46130.0;53040.0;91.4778642606;8;70.0;https://www.buscalibre.cl/libro-los-cuatro-fantasticos-origen/9788490946077/p/47452171
+148;Blackest Night Omnibus (10Th Anniversary) (libro en Inglés);76760.0;85716.875;76760.0;90410.0;89.5506281581;10;70.0;https://www.buscalibre.cl/libro-blackest-night-omnibus-10th-anniversary-libro-en-ingles/9781401291198/p/51848028
+149;Final Crisis Omnibus (New Printing) (libro en Inglés);85120.0;96080.0;85120.0;102140.0;88.5928393006;11;70.0;https://www.buscalibre.cl/libro-final-crisis-omnibus-new-printing-libro-en-ingles/9781779501400/p/52047688
+150;Batman: Knightfall Omnibus Vol. 1 (libro en Inglés);58520.0;66077.5;58520.0;70230.0;88.5626726193;11;70.0;https://www.buscalibre.cl/libro-batman-knightfall-omnibus-vol-1-libro-en-ingles/9781401270421/p/48384057
+151;Absolute Justice League the World's Greatest Superheroes by Alex Ross &Paul Dini: The World's Greatest Superheroes by Alex Ross and Paul (libro en Inglés);49210.0;55571.25;49210.0;59050.0;88.5529837821;11;70.0;https://www.buscalibre.cl/libro-absolute-justice-league-the-world-s-greatest-superheroes-by-alex-ross-paul-dini-the-world-s-greatest-superheroes-by-alex-ross-and-paul-libro-en-ingles/9781401273705/p/48387420
+152;The Absolute Sandman, Vol. 1 (libro en Inglés);62230.0;70244.375;62230.0;74670.0;88.5907234565;11;70.0;https://www.buscalibre.cl/libro-the-absolute-sandman-vol-1-libro-en-ingles/9781401210823/p/1829942
+153;Batman by Grant Morrison Omnibus Vol. 2 (libro en Inglés);45220.0;51074.375;45220.0;54270.0;88.5375494071;11;70.0;https://www.buscalibre.cl/libro-batman-by-grant-morrison-omnibus-vol-2-libro-en-ingles/9781401288839/p/51917227
+154;Viaje al Centro de la Tierra;0.0;1.0;0.0;0.0;0.0;100;70.0;https://www.buscalibre.cl/libro-viaje-al-centro-de-la-tierra/9788467050660/p/49017526
+155;the complete book of origami,step-by-step instructions in over 1000 diagrams/37 original models;14460.0;16350.625;14460.0;17350.0;88.4369863537;11;70.0;https://www.buscalibre.cl/libro-the-complete-book-of-origamistep-by-step-instructions-in-over-1000-diagrams-37-original-models/9780486258379/p/1533937
+156;origami under the sea;13790.0;15515.0;0.0;16530.0;88.8817273606;11;70.0;https://www.buscalibre.cl/libro-origami-under-the-sea/9780486477848/p/4700344
+157;origami insects and their kin,step-by-step instructions in over 1500 diagrams;12470.0;14106.25;12470.0;14960.0;88.4005316792;11;70.0;https://www.buscalibre.cl/libro-origami-insects-and-their-kinstep-by-step-instructions-in-over-1500-diagrams/9780486286020/p/1554710
+158;mythological creatures and the chinese zodiac origami;13790.0;15598.75;13790.0;16550.0;88.4045195929;11;70.0;https://www.buscalibre.cl/libro-mythological-creatures-and-the-chinese-zodiac-origami/9780486479514/p/3840614
+159;DC Superhéroes Origami;12260.0;13518.125;12260.0;14190.0;90.6930509963;9;70.0;https://www.buscalibre.cl/libro-dc-superheroes-origami/9788415094197/p/47483223
+160;Favorite Animals in Origami (Dover Origami Papercraft) (libro en Inglés);6500.0;7811.875;6500.0;8590.0;83.2066565325;16;70.0;https://www.buscalibre.cl/libro-favorite-animals-in-origami-dover-origami-papercraft-libro-en-ingles/9780486291369/p/1561170
+161;Invincible: The Ultimate Collection Volume 12 (libro en Inglés);35110.0;41177.5;0.0;42130.0;85.2650112319;14;70.0;https://www.buscalibre.cl/libro-invincible-the-ultimate-collection-volume-12-libro-en-ingles/9781534306585/p/50575680
+162;Saga Book Three (libro en Inglés);37240.0;42061.875;37240.0;44680.0;88.5362338222;11;70.0;https://www.buscalibre.cl/libro-saga-book-three-libro-en-ingles/9781534312210/p/51759124
+163;Invincible: The Ultimate Collection Volume 5 (libro en Inglés);27080.0;30591.875;27080.0;32500.0;88.5202361738;11;70.0;https://www.buscalibre.cl/libro-invincible-the-ultimate-collection-volume-5-libro-en-ingles/9781607061168/p/2642837
+164;Teenage Mutant Ninja Turtles: The idw Collection Volume 2 (libro en Inglés);33180.0;37486.875;33180.0;39820.0;88.5109788426;11;70.0;https://www.buscalibre.cl/libro-teenage-mutant-ninja-turtles-the-idw-collection-volume-2-libro-en-ingles/9781631405396/p/48410562
+165;Tales From the dc Dark Multiverse (libro en Inglés);24890.0;27710.0;0.0;29870.0;89.8231685312;10;70.0;https://www.buscalibre.cl/libro-tales-from-the-dc-dark-multiverse-libro-en-ingles/9781779501370/p/52043526
+166;The Batman who Laughs (libro en Inglés);22130.0;22515.0;13280.0;26550.0;98.2900288696;1;70.0;https://www.buscalibre.cl/libro-the-batman-who-laughs-libro-en-ingles/9781401294038/p/51976582
+167;Dceased (libro en Inglés);22130.0;25015.625;22130.0;26550.0;88.4647095565;11;70.0;https://www.buscalibre.cl/libro-dceased-libro-en-ingles/9781401294403/p/52040987
+168;Vinland Saga 3 (libro en Inglés);14930.0;16885.0;14930.0;17920.0;88.4216760438;11;70.0;https://www.buscalibre.cl/libro-vinland-saga-3-libro-en-ingles/9781612624228/p/40448457
+169;Vinland Saga Vol. 10 (libro en Inglés);18260.0;20649.375;18260.0;21910.0;88.4288265383;11;70.0;https://www.buscalibre.cl/libro-vinland-saga-vol-10-libro-en-ingles/9781632366306/p/50587378
+170;Death Note (All-In-One Edition) (libro en Inglés);32060.0;36228.75;32060.0;38480.0;88.4932546665;11;70.0;https://www.buscalibre.cl/libro-death-note-all-in-one-edition-libro-en-ingles/9781421597713/p/49250127
+171;Berserk Deluxe Volume 1 (libro en Inglés);37240.0;42271.25;37240.0;47960.0;88.0977023391;11;70.0;https://www.buscalibre.cl/libro-berserk-deluxe-volume-1-libro-en-ingles/9781506711980/p/51598673
+172;Mobile Suit Gundam: The Origin Vol. 1: Activation (libro en Inglés);23490.0;26568.125;23490.0;28190.0;88.4142181656;11;70.0;https://www.buscalibre.cl/libro-mobile-suit-gundam-the-origin-vol-1-activation-libro-en-ingles/9781935654872/p/25893428
+173;Vinland Saga 2 (libro en Inglés);14930.0;16885.0;14930.0;17920.0;88.4216760438;11;70.0;https://www.buscalibre.cl/libro-vinland-saga-2-libro-en-ingles/9781612624211/p/40448460
+174;Chicos 2015 (el Arte de Tejer);13570.0;15138.75;13570.0;15900.0;89.6375196103;10;70.0;https://www.buscalibre.cl/libro-chicos-2015-el-arte-de-tejer/9789871278985/p/47255619
+175;El Bosque S / N, Camino A Ensenada, Puerto Varas;250000000.0;250000000.0;250000000.0;250000000.0;100.0;0;95.0;https://www.portalinmobiliario.com/venta/casa/puerto-varas-los-lagos/3947336-el-bosque-sn-uda
+176;Buenas Noches, Punpun 01;14220.0;15176.6667;14220.0;16440.0;93.6964636642;6;70.0;https://www.buscalibre.cl/libro-buenas-noches-punpun-01/9788467920574/p/46890820

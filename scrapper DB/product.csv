@@ -1,0 +1,197 @@
+id,name,reg_date,img_url,reference_price,id_category
+1,Amuleto,"2021-03-01 12:14:30",NULL,6000,2
+2,"Los Sinsabores del Verdadero Policia","2021-03-01 12:25:10",NULL,10000,2
+3,"Una Novelita Lumpen","2021-03-01 12:34:14",NULL,10000,2
+4,"La Llegada de los Tres (la Torre Oscura ii)","2021-03-01 12:37:35",NULL,20000,3
+5,"Coleccion Completa Sherlock Holmes (8 Volumenes)","2021-03-02 15:36:25",NULL,60000,3
+6,"En Busca del Tiempo Perdido (7 Tomos)","2021-03-02 15:48:50",NULL,80000,3
+7,"Hojas de Hierba","2021-03-02 15:51:13",NULL,12000,3
+8,"La Broma Infinita","2021-03-02 15:53:44",NULL,16000,3
+9,Catedral,"2021-03-02 15:56:52",NULL,8000,3
+10,"Un Árbol de Noche","2021-03-03 18:02:09",NULL,10000,3
+11,"Musica Para Camaleones","2021-02-24 12:38:26",NULL,NULL,3
+12,"El Capitán Salió a Comer y los Marineros Tomaron el Barco","2021-02-24 12:38:26",NULL,NULL,3
+13,"Escritos de un Viejo Indecente","2021-02-24 12:38:26",NULL,NULL,3
+14,"Erecciones, Eyaculaciones, Exhibiciones","2021-02-24 12:38:26",NULL,NULL,3
+15,Hollywood,"2021-02-24 12:38:26",NULL,NULL,3
+16,"Se Busca una Mujer","2021-02-24 12:38:26",NULL,NULL,3
+17,"Shakespeare Nunca lo Hizo","2021-02-24 12:38:26",NULL,NULL,3
+18,"Fragmentos de un Cuaderno Manchado de Vino","2021-02-24 12:38:26",NULL,NULL,3
+19,"Musica de Cañerias","2021-02-24 12:38:26",NULL,NULL,3
+20,Mujeres,"2021-02-24 12:38:26",NULL,NULL,3
+21,Factotum,"2021-02-24 12:38:26",NULL,NULL,3
+22,Pulp,"2021-02-24 12:38:26",NULL,NULL,3
+23,"La Máquina de Follar","2021-02-24 12:38:26",NULL,NULL,3
+24,"Hijo de Satanás","2021-02-24 12:38:26",NULL,NULL,3
+25,Cartero,"2021-02-24 12:38:26",NULL,NULL,3
+26,"Fiebre en las Gradas","2021-02-24 12:38:32",NULL,NULL,4
+27,"Como Ser Buenos","2021-02-24 12:38:32",NULL,NULL,4
+28,"Juliet, desnuda","2021-02-24 12:38:32",NULL,NULL,4
+29,"Funny Girl","2021-02-24 12:38:32",NULL,NULL,4
+30,"31 Canciones","2021-02-24 12:38:32",NULL,NULL,4
+31,"Juliet, Desnuda","2021-02-24 12:38:32",NULL,NULL,4
+32,"En Picado","2021-02-24 12:38:32",NULL,NULL,4
+33,"El año del Verano que Nunca Llego","2021-02-25 16:13:43",NULL,NULL,5
+34,"Crónica de una Muerte Anunciada (Literatura Random House)","2021-02-25 16:13:43",NULL,NULL,5
+35,"Vivir Para Contarla","2021-02-25 16:13:43",NULL,NULL,5
+36,"Relato de un Náufrago","2021-02-25 16:13:43",NULL,NULL,5
+37,"El Mundo Conocido","2021-02-26 17:49:46",NULL,NULL,6
+38,"En la Corte del Lobo","2021-02-26 17:49:46",NULL,NULL,6
+39,"Gilead - st Martin`S Press (libro en Inglés)","2021-02-26 17:49:46",NULL,NULL,6
+40,"Las Correcciones","2021-02-26 17:49:46",NULL,NULL,6
+41,"Asombrosas Aventuras de Kavalier y Clay","2021-02-26 17:49:46",NULL,NULL,6
+42,"El Tiempo es un Canalla","2021-02-26 17:49:46",NULL,NULL,6
+43,"Medio sol Amarillo","2021-02-26 17:49:46",NULL,NULL,6
+44,"Dientes Blancos","2021-02-26 17:49:46",NULL,NULL,6
+45,Middlesex,"2021-02-26 17:49:46",NULL,NULL,6
+46,"La Gran Guerra","2021-02-26 17:58:00",NULL,NULL,7
+47,"Princesas al Poder","2020-09-21 16:46:52",NULL,NULL,1
+48,"Donde Viven los Monstruos","2021-02-26 17:58:00",NULL,NULL,7
+49,"Mickey a Travï¿ ½S de los Siglos","2020-09-21 16:46:56",NULL,NULL,1
+51,"Spiderman: Toda una Vida","2020-09-21 16:47:03",NULL,NULL,1
+53,"Fenix nº 01/12 (Nueva Edición)","2020-09-21 16:47:09",NULL,NULL,1
+55,"Notas al pie de Gaza","2021-02-26 17:58:00",NULL,NULL,7
+56,"Gorazde (nueva ediciï¿½n)","2021-02-26 17:58:00",NULL,NULL,7
+57,"Historias de Bosnia","2021-02-26 17:58:00",NULL,NULL,7
+58,"Usagi Yojimbo 3","2020-09-21 16:47:20",NULL,NULL,1
+59,37,"2020-09-21 16:47:23",NULL,NULL,1
+60,"Usagi Yojimbo 2","2020-09-21 16:47:25",NULL,NULL,1
+61,"100 Balas Libro 01 (de 5)","2021-02-26 17:58:00",NULL,NULL,7
+62,"Kobane Calling","2021-02-26 17:58:00",NULL,NULL,7
+63,"Ciencia Oscura Edición de Lujo 1. Manual de Entropía Para Principiantes","2020-09-21 16:47:33",NULL,NULL,1
+66,"Aidp, Integral 1","2021-02-26 17:58:00",NULL,NULL,7
+67,Alicia,"2020-09-21 16:47:41",NULL,NULL,1
+68,Barrera,"2021-02-26 17:58:00",NULL,NULL,7
+69,"Tintín Box. La Colección Completa","2020-09-21 16:47:44",NULL,NULL,1
+70,"Donald Happiest Adventures","2020-09-21 16:47:46",NULL,NULL,1
+71,"Star Wars Omnibus Jason Aaron  nº 01","2020-09-21 16:47:48",NULL,NULL,1
+72,"Star Wars Darth Vader Omnibus","2020-09-21 16:47:50",NULL,NULL,1
+74,"Asalto al Hades, el","2020-09-21 16:47:54",NULL,NULL,1
+76,"Los Pitufos. Integral 01","2020-09-21 16:47:58",NULL,NULL,1
+77,"Los Malditos Nº 01","2021-02-26 17:58:00",NULL,NULL,7
+78,"Estrella Distante","2020-09-21 16:48:01",NULL,NULL,1
+79,"From Hell","2021-02-26 17:58:00",NULL,NULL,7
+80,"Los Muertos Vivientes Integral nº1","2021-02-26 17:58:00",NULL,NULL,7
+81,"1959 Metahulla #2","2020-09-21 16:48:06",NULL,NULL,1
+82,"Los Fantastibulosos Mundos de Roald Dahl","2020-09-21 16:48:08",NULL,NULL,1
+87,"De Animales a Dioses. Breve Historia de la Humanidad","2020-09-21 16:48:19",NULL,NULL,1
+92,"Cochrane vs. Cthulhu","2020-09-21 16:48:28",NULL,NULL,1
+94,"Cuentos Completos i  (Philip k. Dick ) (Bibliotecas de Autor)","2020-09-21 16:48:32",NULL,NULL,1
+95,Ubik,"2020-09-21 16:48:34",NULL,NULL,1
+96,"Los Tres Estigmas de Palmer Eldritch","2020-09-21 16:48:36",NULL,NULL,1
+97,"La Penúltima Verdad","2020-09-21 16:48:38",NULL,NULL,1
+98,"Cuentos Completos ii  (Philip k. Dick )","2020-09-21 16:48:40",NULL,NULL,1
+99,"Fluyan mis Lï¿ ½Grimas, Dijo el Policï¿ ½A","2020-09-21 16:48:41",NULL,NULL,1
+100,"Crónicas Marcianas","2020-09-21 16:48:44",NULL,NULL,1
+102,"El sol Desnudo","2020-09-21 16:48:47",NULL,NULL,1
+103,"Los Robots del Amanecer","2020-09-21 16:48:52",NULL,NULL,1
+104,"Monster Kanzenban nº 01","2020-09-21 16:48:54",NULL,NULL,1
+105,"Monster Kanzenban nº 02","2020-09-21 16:48:56",NULL,NULL,1
+106,"Dragon Head nº 01/05","2020-09-21 16:48:58",NULL,NULL,1
+107,"Hanzô: El camino del asesino: Hanzô 1 - 2ª ed.","2020-09-21 16:49:01",NULL,NULL,1
+108,"Dragon Head nº 02/05","2020-09-21 16:49:03",NULL,NULL,1
+109,"La Chica a la Orilla del mar 01","2020-09-21 16:49:05",NULL,NULL,1
+110,"La Chica a la Orilla del mar 2","2020-09-21 16:49:08",NULL,NULL,1
+111,"Pluto nº 01/08 (Nueva Edicion)","2020-09-21 16:49:10",NULL,NULL,1
+112,"3 x 3 Eyes 01","2020-09-21 16:49:12",NULL,NULL,1
+113,"Lobo Solitario y su Cachorro 1","2020-09-21 16:49:15",NULL,NULL,1
+124,"Obra Completa: Estuche Con: Sapiens | Homo Deus | 21 Lecciones Para el Siglo Xxi: 18041 (Historia)","2020-09-21 16:49:42",NULL,NULL,1
+125,"Código Limpio","2020-09-21 16:49:45",NULL,NULL,1
+126,"El Castillo de las Estrellas 01. 1869 la Conquista del Espacio","2020-09-21 16:49:48",NULL,NULL,1
+127,Sangri-la,"2020-09-21 16:49:50",NULL,NULL,1
+128,"Blacksad 02: Arctic Nation","2020-09-21 16:49:53",NULL,NULL,1
+129,"Thorgal. Integral 1","2020-09-21 16:49:55",NULL,NULL,1
+131,"Los Surcos del Azar. Edición Ampliada [Próxima Aparición]","2020-09-21 16:50:01",NULL,NULL,1
+132,"Lydie Edicion Especial","2020-09-21 16:50:04",NULL,NULL,1
+133,"Jamás Tendré 20 Años.","2020-09-21 16:50:07",NULL,NULL,1
+134,"March. Una Cronica de la Lucha por los Derechos Civiles de los Afroamericanos","2021-02-26 17:58:00",NULL,NULL,7
+135,"Esta Parte me Encanta","2021-02-26 17:58:00",NULL,NULL,7
+136,"En un Rayo de sol 2ª Parte","2021-02-26 17:58:00",NULL,NULL,7
+137,"En un Rayo de sol #1 Parte","2021-02-26 17:58:00",NULL,NULL,7
+138,Piruetas,"2021-02-26 17:58:00",NULL,NULL,7
+139,"Me Estas Escuchando?","2021-02-26 17:58:00",NULL,NULL,7
+140,"Frankenstein (Nueva Edición) (Novela Gráfica)","2021-02-26 17:58:00",NULL,NULL,7
+141,"Sleeper: Integral","2021-02-26 17:58:00",NULL,NULL,7
+142,"La Inocencia del Nihilismo","2021-02-26 17:58:00",NULL,NULL,7
+143,"Queen and Country 1","2021-02-26 17:58:00",NULL,NULL,7
+148,"Blackest Night Omnibus (10Th Anniversary) (libro en Inglés)","2020-09-21 16:50:42",NULL,NULL,1
+150,"Batman: Knightfall Omnibus Vol. 1 (libro en Inglés)","2020-09-21 16:50:47",NULL,NULL,1
+151,"Absolute Justice League the World's Greatest Superheroes by Alex Ross &Paul Dini: The World's Greatest Superheroes by Alex Ross and Paul (libro en Inglés)","2020-09-21 17:01:31",NULL,NULL,1
+152,"The Absolute Sandman, Vol. 1 (libro en Inglés)","2020-09-21 17:01:33",NULL,NULL,1
+154,"Viaje al Centro de la Tierra","2020-09-21 17:01:38",NULL,NULL,1
+155,"the complete book of origami,step-by-step instructions in over 1000 diagrams/37 original models","2020-09-21 17:01:40",NULL,NULL,1
+156,"origami under the sea","2020-09-21 17:01:43",NULL,NULL,1
+157,"origami insects and their kin,step-by-step instructions in over 1500 diagrams","2020-09-21 17:01:45",NULL,NULL,1
+158,"mythological creatures and the chinese zodiac origami","2020-09-21 17:01:48",NULL,NULL,1
+159,"DC Superhéroes Origami","2020-09-21 17:01:50",NULL,NULL,1
+160,"Favorite Animals in Origami (Dover Origami Papercraft) (libro en Inglés)","2020-09-21 17:01:55",NULL,NULL,1
+161,"Invincible: The Ultimate Collection Volume 12 (libro en Inglés)","2020-09-21 17:01:58",NULL,NULL,1
+163,"Invincible: The Ultimate Collection Volume 5 (libro en Inglés)","2020-09-21 17:02:03",NULL,NULL,1
+164,"Teenage Mutant Ninja Turtles: The idw Collection Volume 2 (libro en Inglés)","2020-09-21 17:02:06",NULL,NULL,1
+165,"Tales From the dc Dark Multiverse (libro en Inglés)","2020-09-21 17:02:08",NULL,NULL,1
+167,"Dceased (libro en Inglés)","2020-09-21 17:02:13",NULL,NULL,1
+168,"Vinland Saga 3 (libro en Inglés)","2020-09-21 17:02:16",NULL,NULL,1
+169,"Vinland Saga Vol. 10 (libro en Inglés)","2020-09-21 17:02:21",NULL,NULL,1
+170,"Death Note (All-In-One Edition) (libro en Inglés)","2020-09-21 17:02:23",NULL,NULL,1
+177,"Arte De Tejer 2016","2020-10-21 11:00:25",NULL,NULL,1
+181,"Entender el Comic","2020-10-29 10:01:06",NULL,NULL,1
+185,"Mobile Suit Gundam: The Origin Vol. 2: Garma (libro en Inglés)","2020-11-19 09:40:38",NULL,NULL,1
+186,"20 Master Plots: And how to Build Them (libro en Inglés)","2020-11-26 12:16:22",NULL,NULL,1
+187,"Sherlock Holmes (Obras Completas) (4 Tomos) (Td)","2020-12-07 11:08:14",NULL,NULL,1
+188,"El Silencio de los Malditos","2020-12-10 15:15:28",NULL,NULL,1
+189,"Bovedas de Acero","2020-12-16 09:28:48",NULL,NULL,1
+193,"Dune novela grafica","2020-12-23 19:18:48",NULL,NULL,1
+194,"Death Note Edición Integral","2020-12-29 12:59:38",NULL,NULL,1
+195,"Erase una vez en Francia. Edicion Integral","2020-12-29 13:02:13",NULL,NULL,1
+196,"The Crow","2021-01-13 13:35:41",NULL,NULL,1
+201,"Devilman: The First 03","2021-01-13 13:41:14",NULL,NULL,1
+202,"El Puño de la Estrella del Norte (Hokuto no Ken) nº 08/18","2021-01-13 13:41:42",NULL,NULL,1
+204,"Billy bat 01","2021-01-14 16:14:16",NULL,NULL,1
+205,"Billy bat 02","2021-01-14 16:14:52",NULL,NULL,1
+206,"Billy bat 03","2021-01-14 16:15:23",NULL,NULL,1
+207,"Billy bat 04","2021-01-14 16:15:47",NULL,NULL,1
+208,"Billy bat 05","2021-01-14 16:16:10",NULL,NULL,1
+209,"Happy! 01","2021-01-14 16:17:31",NULL,NULL,1
+210,"Happy! 02","2021-01-14 16:17:57",NULL,NULL,1
+211,"Happy! 03","2021-01-14 16:18:22",NULL,NULL,1
+212,"Happy! 04","2021-01-14 16:18:46",NULL,NULL,1
+213,"Happy! 05","2021-01-14 16:19:06",NULL,NULL,1
+214,"Sombras Sobre Shimanami, Vol. 1","2021-01-15 11:39:00",NULL,NULL,1
+215,"Sombras Sobre Shimanami, Vol. 2","2021-01-15 11:39:30",NULL,NULL,1
+216,"Sombras Sobre Shimanami, Vol. 3","2021-01-15 11:40:00",NULL,NULL,1
+217,"Sombras Sobre Shimanami, Vol. 4","2021-01-15 11:40:28",NULL,NULL,1
+218,"El Barrio de la luz","2021-01-18 17:46:55",NULL,NULL,1
+219,Reiraku,"2021-01-18 17:49:23",NULL,NULL,1
+220,"Antologia de Inio Asano","2021-01-18 17:50:00",NULL,NULL,1
+221,"Un Mundo Maravilloso","2021-01-18 17:50:38",NULL,NULL,1
+223,"Snow Crash","2021-01-20 13:01:17",NULL,NULL,1
+225,"Levius 01","2021-02-01 11:40:06",NULL,NULL,1
+226,"Levius 02","2021-02-01 11:40:45",NULL,NULL,1
+227,"Capitan Tsubasa","2021-02-09 12:11:09",NULL,NULL,1
+228,"Batman by Grant Morrison Omnibus Vol. 3 (libro en Inglés)","2021-02-17 11:41:37",NULL,NULL,1
+230,"La Capa 1969","2021-02-26 17:35:35",NULL,10000,1
+232,"American Gods Sombras (Tomo) nº 01/03","2021-03-08 15:28:48",NULL,20000,1
+233,"American Gods Sombras (Tomo) nº 02","2021-03-08 15:30:07",NULL,20000,1
+234,"En Busca de Venus: El Arte de Medir el Cielo","2021-03-09 10:23:02",NULL,16000,1
+235,"La Voragine","2021-03-09 10:29:24",NULL,12000,1
+236,"La mano izquierda de la oscuridad","2021-03-09 10:32:21",NULL,18000,1
+237,"El Adversario","2021-03-09 10:36:04",NULL,12000,1
+238,"Una Música Futura","2021-03-09 10:37:46",NULL,5000,1
+239,"Pobres Diablos","2021-03-09 10:43:24",NULL,8000,1
+240,"Terramar 50 Aniversario","2021-03-10 17:07:32",NULL,50000,1
+242,"El Nadador en el mar Secreto","2021-03-10 17:20:23",NULL,10000,1
+243,Stoner,"2021-03-10 17:23:25",NULL,12000,1
+244,"Quien se Hara Cargo del Hospital de Ranas?","2021-03-10 17:26:44",NULL,14000,1
+245,"Lo que mas me Gusta son los Monstruos","2021-03-10 17:31:11",NULL,20000,1
+246,"Memento mori (Versos, canciones y trocitos de carne 1)","2021-03-10 17:33:40",NULL,12000,1
+247,"El Diario de un Hombre Decepcionado","2021-03-10 17:36:48",NULL,25000,1
+248,"Nuestra Parte de Noche","2021-03-10 17:38:58",NULL,15000,1
+249,Lugar,"2021-03-10 17:45:03",NULL,8000,1
+250,"Los Pololos de mi Mamá","2021-03-10 17:48:26",NULL,5000,1
+251,"Ahogado, el","2021-03-11 17:19:29",NULL,12000,1
+252,"Algún día Este Dolor te Será Útil","2021-03-11 17:20:43",NULL,15000,1
+253,Karmen,"2021-04-01 12:49:25",NULL,28000,1
+256,Clandestino,"2021-04-05 11:16:35",NULL,12000,1
+257,"Batman: Road to no Man's Land Omnibus","2021-05-25 09:21:52",NULL,70000,1
+258,"The Boys Integral 3","2021-06-01 10:26:50",NULL,35000,1
+261,"Jla by Grant Morrison Omnibus","2021-06-22 09:36:26",NULL,60000,1
