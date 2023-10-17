@@ -25,7 +25,7 @@ class ProductHistoricalInfo:
         self.hasStock = True
         if self.priceNewest == 0.0 :
             self.hasStock = False
-
+        self.umbral_priceReference = False
 
 
     def fillerInfo(self):
@@ -45,6 +45,8 @@ class ProductHistoricalInfo:
 
         ProductHistoricalInfoHelper.isHistoricalBest(self)
         ProductHistoricalInfoHelper.isUmbral(self)
+        ProductHistoricalInfoHelper.isUmbralReferencePrice(self)
+        ProductHistoricalInfoHelper.validateUmbalsByStock(self)
         ProductHistoricalInfoHelper.insertComparator(self)
 
 

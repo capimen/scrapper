@@ -198,7 +198,8 @@ class SqlHelper:
                 "`best_historical_flag`, " \
                 "`umbral`, " \
                 "`umbral_flag`," \
-                "`hasStock` " \
+                "`hasStock`,  " \
+                "`umbral_priceReference` " \
                 ")" \
                 "VALUE" \
                 "(" \
@@ -217,8 +218,9 @@ class SqlHelper:
                 "" + str(productHistoricalInfo.historicalBestFlag) + ", " \
                 "" + str(productHistoricalInfo.umbral) + ", " \
                 "" + str(productHistoricalInfo.umbralFlag) + ", " \
-                "" + str(productHistoricalInfo.hasStock) + " " \
-                "); "
+                "" + str(productHistoricalInfo.hasStock) + ", " \
+                "" + str(productHistoricalInfo.umbral_priceReference) + " " \
+                                                                                                      "); "
         self.mycursor.execute(query)
         self.mycursor.execute("commit;")
 
@@ -244,3 +246,54 @@ class SqlHelper:
         self.mycursor.execute(query)
         return self.mycursor.fetchall()
 
+
+    def select_highlight_by_user(self, user):
+
+        query = " SELECT    c.id, " \
+                "           c.id_product, " \
+                "           c.product_name, " \
+                "           c.price_newest, " \
+                "           c.price_average, " \
+                "           c.price_best, " \
+                "           c.price_worst, " \
+                "           c.discount_priceleft, " \
+                "           c.discount_percent, " \
+                "           c.average_safe, " \
+                "           c.average_safe_worst, " \
+                "           c.diff_best, " \
+                "           c.url, " \
+                "           c.best_historical_flag, " \
+                "           c.umbral, " \
+                "           c.umbral_flag, " \
+                "           c.reg_date, " \
+                "           c.umbral_priceReference, " \
+                "           umbral_flag + best_historical_flag + umbral_priceReference as ordernamientoTemp, " \
+                "           p.reference_price " \
+                " FROM comparator c, product p " \
+                " where c.id_product in ( " \
+                "    select idProduct " \
+                "    from user_product_monitor upm " \
+                "    where idUser in ( " \
+                "        select id " \
+                "        from user " \
+                "        where lower(name) like '%" + str(user) + "%' " \
+                "    ) " \
+                " ) " \
+                " and (umbral_flag + best_historical_flag + umbral_priceReference) > 0 " \
+                " and c.id_product = p.id " \
+                " order by hasstock desc, discount_percent desc; "
+        self.mycursor.execute(query)
+        return self.mycursor.fetchall()
+
+    def select_iduser_by_user(self, user):
+        query = " select  id " \
+                " from 	user " \
+                " where lower(name) like lower('%"+str(user)+"%') "
+        self.mycursor.execute(query)
+        return self.mycursor.fetchall()
+
+    def select_all_users(self):
+        query = " select  id, name , email  " \
+                " from 	user "
+        self.mycursor.execute(query)
+        return self.mycursor.fetchall()

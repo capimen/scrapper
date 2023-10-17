@@ -1,7 +1,7 @@
 import ScraperHelper
 from ProductScraped import ProductScraped
 from SqlHelper import SqlHelper
-
+import sendMail
 
 sqlHelper = SqlHelper()
 myresult = sqlHelper.select_pending()
@@ -33,7 +33,7 @@ for row in myresult:
 
         sites.append(productScraped.commerceName)
 
-    print(str(productScraped.productId) + "\t..........\t" + str(productScraped.valor) + "\t..........\t"+ productScraped.commerceName + "\t..........\t"+ productScraped.productName)
+    print(str(productScraped.productId) + "\t....\t" + str(productScraped.valor) + "\t....\t"+ productScraped.commerceName + "\t....\t"+ productScraped.productName)
 
     sqlHelper.insert_historical(productScraped)
 
@@ -42,3 +42,4 @@ for row in myresult:
 
 ScraperHelper.printDone(counter, sites)
 ScraperHelper.excecuteCompareBash()
+sendMail.sendMail()

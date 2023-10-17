@@ -1,9 +1,9 @@
 call putProduct(
-	'La casta de los Metabarones',
-    10000,
-    6,    -- category
+	'Mi Vida sin Rosa',
+    12000,
+	6,    -- category
     1,     -- comercio (1 - Buscalibre)
-    'https://www.buscalibre.cl/libro-la-casta-de-los-metabarones/9788418052187/p/53671471',
+    'https://www.buscalibre.cl/libro-mi-vida-sin-rosa/9788418419683/p/54367207',
     @lastProductDetail
 );
 select 	p.name as product_name,

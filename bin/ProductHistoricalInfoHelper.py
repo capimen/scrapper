@@ -72,6 +72,38 @@ def isUmbral(productHistoricalInfo):
     return productHistoricalInfo.umbralFlag
 
 
+
+
+def isUmbralReferencePrice(productHistoricalInfo):
+
+    if productHistoricalInfo.product.referencePrice is None:
+
+        productHistoricalInfo.umbral_priceReference = False
+
+    else:
+
+        if productHistoricalInfo.product.referencePrice > productHistoricalInfo.priceNewest:
+
+            productHistoricalInfo.umbral_priceReference = True
+
+        else:
+
+            productHistoricalInfo.umbral_priceReference = False
+
+    return productHistoricalInfo.umbral_priceReference
+
+
+
+def validateUmbalsByStock(productHistoricalInfo):
+
+    if productHistoricalInfo.hasStock is False:
+
+        productHistoricalInfo.umbralFlag = False
+        productHistoricalInfo.historicalBestFlag = False
+        productHistoricalInfo.umbral_priceReference = False
+
+    return True
+
 def isLessReferencePrice(productHistoricalInfo):
 
     if productHistoricalInfo.priceNewest < productHistoricalInfo.product.referencePrice:
